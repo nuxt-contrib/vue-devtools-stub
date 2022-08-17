@@ -5,6 +5,7 @@ import * as devtoolsAPI from '../src'
 describe('vue-devtools-stub', () => {
   describe('has same exports of @vue/devtools-api', () => {
     for (const key in actualDevtools) {
+      if (key === '__esModule') { continue }
       it(key, () => {
         expect(typeof (devtoolsAPI as any)[key]).toBe(typeof (actualDevtools as any)[key])
       })
