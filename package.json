@@ -28,7 +28,7 @@
   },
   "devDependencies": {
     "@nuxt/eslint-config": "^0.7.4",
-    "@vitest/coverage-c8": "latest",
+    "@vitest/coverage-v8": "latest",
     "@vue/devtools-api": "^6.2.1",
     "eslint": "latest",
     "standard-version": "latest",
