@@ -15,7 +15,7 @@ importers:
         specifier: latest
         version: 2.1.8(vitest@2.1.8)
       '@vue/devtools-api':
-        specifier: ^6.2.1
+        specifier: ^6.6.4
         version: 6.6.4
       eslint:
         specifier: latest
