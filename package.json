@@ -21,16 +21,15 @@
   "scripts": {
     "build": "unbuild",
     "dev": "vitest dev",
-    "lint": "eslint --ext .ts,.js,.mjs,.cjs .",
+    "lint": "eslint .",
     "prepack": "unbuild",
     "release": "pnpm test && standard-version && git push --follow-tags && pnpm publish",
     "test": "pnpm lint && vitest run"
   },
-  "dependencies": {},
   "devDependencies": {
-    "@nuxtjs/eslint-config-typescript": "latest",
-    "@vue/devtools-api": "^6.2.1",
+    "@nuxt/eslint-config": "^0.7.4",
     "@vitest/coverage-c8": "latest",
+    "@vue/devtools-api": "^6.2.1",
     "eslint": "latest",
     "standard-version": "latest",
     "typescript": "latest",
