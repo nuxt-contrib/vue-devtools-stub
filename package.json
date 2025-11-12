@@ -27,7 +27,7 @@
     "test": "pnpm lint && vitest run"
   },
   "devDependencies": {
-    "@nuxt/eslint-config": "^1.4.1",
+    "@nuxt/eslint-config": "^1.10.0",
     "@vitest/coverage-v8": "latest",
     "@vue/devtools-api": "^6.6.4",
     "eslint": "latest",
@@ -36,5 +36,5 @@
     "unbuild": "latest",
     "vitest": "latest"
   },
-  "packageManager": "pnpm@10.21.0"
+  "packageManager": "pnpm@10.22.0"
 }
