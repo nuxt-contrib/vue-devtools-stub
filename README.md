@@ -5,7 +5,7 @@
 [![Github Actions][github-actions-src]][github-actions-href]
 [![Codecov][codecov-src]][codecov-href]
 
-Stub package for [`@vue/devtools-api`](https://npmjs.com/package/@vue/devtools-api).
+Stub package for [`@vue/devtools-api`](https://npmx.dev/package/@vue/devtools-api).
 
 **Why this package:**
 
@@ -29,11 +29,11 @@ Made with 💛
 Published under [MIT License](./LICENSE).
 
 <!-- Badges -->
-[npm-version-src]: https://img.shields.io/npm/v/vue-devtools-stub?style=flat-square
-[npm-version-href]: https://npmjs.com/package/vue-devtools-stub
+[npm-version-src]: https://npmx.dev/api/registry/badge/version/vue-devtools-stub
+[npm-version-href]: https://npmx.dev/package/vue-devtools-stub
 
-[npm-downloads-src]: https://img.shields.io/npm/dm/vue-devtools-stub?style=flat-square
-[npm-downloads-href]: https://npmjs.com/package/vue-devtools-stub
+[npm-downloads-src]: https://npmx.dev/api/registry/badge/downloads/vue-devtools-stub
+[npm-downloads-href]: https://npmx.dev/package/vue-devtools-stub
 
 [github-actions-src]: https://img.shields.io/github/workflow/status/nuxt-contrib/vue-devtools-stub/ci/main?style=flat-square
 [github-actions-href]: https://github.com/nuxt-contrib/vue-devtools-stub/actions?query=workflow%3Aci
