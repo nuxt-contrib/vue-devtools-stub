@@ -28,14 +28,14 @@
     "test": "pnpm lint && vitest run"
   },
   "devDependencies": {
-    "@nuxt/eslint-config": "^1.4.1",
+    "@nuxt/eslint-config": "^1.16.0",
     "@vitest/coverage-v8": "latest",
     "@vue/devtools-api": "^6.6.4",
     "eslint": "latest",
     "standard-version": "latest",
-    "tsdown": "0.22.0",
+    "tsdown": "0.22.2",
     "typescript": "latest",
     "vitest": "latest"
   },
-  "packageManager": "pnpm@11.1.2"
+  "packageManager": "pnpm@11.6.0"
 }
