@@ -33,9 +33,9 @@
     "@vue/devtools-api": "^6.6.4",
     "eslint": "latest",
     "standard-version": "latest",
-    "tsdown": "0.22.2",
+    "tsdown": "0.22.3",
     "typescript": "latest",
     "vitest": "latest"
   },
-  "packageManager": "pnpm@11.7.0"
+  "packageManager": "pnpm@11.8.0"
 }
