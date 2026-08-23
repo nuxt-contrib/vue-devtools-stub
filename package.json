@@ -29,13 +29,13 @@
   },
   "devDependencies": {
     "@nuxt/eslint-config": "^1.17.0",
-    "@vitest/coverage-v8": "^4.1.10",
+    "@vitest/coverage-v8": "^4.1.11",
     "@vue/devtools-api": "^6.6.4",
-    "eslint": "^10.8.1",
+    "eslint": "^10.9.0",
     "commit-and-tag-version": "^13.1.2",
     "tsdown": "0.22.14",
     "typescript": "^6.0.3",
-    "vitest": "^4.1.10"
+    "vitest": "^4.1.11"
   },
-  "packageManager": "pnpm@11.22.0"
+  "packageManager": "pnpm@11.23.0"
 }
