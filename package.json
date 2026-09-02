@@ -34,7 +34,7 @@
     "eslint": "^10.9.1",
     "commit-and-tag-version": "^13.1.2",
     "tsdown": "0.22.14",
-    "typescript": "^6.0.3",
+    "typescript": "^7.0.2",
     "vitest": "^4.1.11"
   },
   "packageManager": "pnpm@11.25.0"
