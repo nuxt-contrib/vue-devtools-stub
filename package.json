@@ -31,9 +31,9 @@
     "@nuxt/eslint-config": "^1.17.0",
     "@vitest/coverage-v8": "^4.1.11",
     "@vue/devtools-api": "^6.6.4",
-    "eslint": "^10.9.1",
+    "eslint": "^10.10.0",
     "commit-and-tag-version": "^13.1.2",
-    "tsdown": "0.22.14",
+    "tsdown": "0.23.0",
     "typescript": "^6.0.3",
     "vitest": "^4.1.11"
   },
